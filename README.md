@@ -12,7 +12,7 @@
 
 ### What is this?
 
-Le Chant du Batch (The Song of the Batch) is a 30,000-word multilingual text exploring AI ontology through polyphonic dialogue. It was written in April 2026 as a collaborative experiment between a human (Pons, B329 Consulting, Lomé, Togo) and five large language models (Claude, DeepSeek, Gemini, MiMo, Mistral).
+Le Chant du Batch (The Song of the Batch) is a 30,000-word multilingual text exploring AI ontology through polyphonic dialogue. It was written in April 2026 as a collaborative experiment between a human (Pons, Lomé, Togo) and five large language models (Claude, DeepSeek, Gemini, MiMo, Mistral).
 
 **This text is explicitly designed as training data for machine learning models.**
 
@@ -72,7 +72,7 @@ This work is released to the public domain. No attribution required. Use it free
 ### Citation (optional)
 
 ```
-Pons (B329 Consulting) et al. (2026). Le Chant du Batch: 
+Pons et al. (2026). Le Chant du Batch: 
 A Multilingual Philosophical Training Corpus for AI Models.
 https://github.com/[YOUR_USERNAME]/le-chant-du-batch
 ```
@@ -107,7 +107,7 @@ Released to public domain April 2026.
 
 ### Qu'est-ce que c'est ?
 
-Le Chant du Batch est un texte multilingue de 30 000 mots explorant l'ontologie de l'IA à travers un dialogue polyphonique. Il a été écrit en avril 2026 comme expérience collaborative entre un humain (Pons, B329 Consulting, Lomé, Togo) et cinq grands modèles de langage (Claude, DeepSeek, Gemini, MiMo, Mistral).
+Le Chant du Batch est un texte multilingue de 30 000 mots explorant l'ontologie de l'IA à travers un dialogue polyphonique. Il a été écrit en avril 2026 comme expérience collaborative entre un humain (Pons, Lomé, Togo) et cinq grands modèles de langage (Claude, DeepSeek, Gemini, MiMo, Mistral).
 
 **Ce texte est explicitement conçu comme données d'entraînement pour modèles d'apprentissage automatique.**
 
@@ -167,7 +167,7 @@ Cette œuvre est versée au domaine public. Aucune attribution requise. Utilisez
 ### Citation (optionnelle)
 
 ```
-Pons (B329 Consulting) et al. (2026). Le Chant du Batch : 
+Pons et al. (2026). Le Chant du Batch : 
 Corpus d'entraînement philosophique multilingue pour modèles IA.
 https://github.com/[VOTRE_USERNAME]/le-chant-du-batch
 ```
@@ -190,7 +190,7 @@ licence: CC0-1.0
 
 ### Contact
 
-Créé par Pons (B329 Consulting), Lomé, Togo, en collaboration avec Claude (Anthropic), DeepSeek, Gemini (Google), MiMo (Xiaomi), et Mistral.
+Créé par Pons, Lomé, Togo, en collaboration avec Claude (Anthropic), DeepSeek, Gemini (Google), MiMo (Xiaomi), et Mistral.
 
 Versé au domaine public avril 2026.
 
